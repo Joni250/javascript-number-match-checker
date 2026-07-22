@@ -10,6 +10,19 @@ The **Number Match Checker** is a beginner-friendly JavaScript project designed 
 
 ---
 
+## 📸 Project Preview
+
+![Project Preview](preview.png)
+
+> If the image doesn't appear on GitHub, use this URL instead:
+
+```markdown
+![Project Preview](https://raw.githubusercontent.com/Joni250/javascript-number-match-checker/main/preview.png)
+```
+
+---
+
+
 ## ✨ Features
 
 - 🔢 Check if a number matches a predefined value
@@ -48,7 +61,6 @@ The **Number Match Checker** is a beginner-friendly JavaScript project designed 
 javascript-number-match-checker/
 │
 ├── index.html
-├── style.css
 ├── script.js
 ├── preview.png
 └── README.md
@@ -67,18 +79,6 @@ git clone https://github.com/Joni250/javascript-number-match-checker.git
 2. Open the project folder.
 
 3. Run `index.html` in your preferred web browser.
-
----
-
-## 📸 Project Preview
-
-![Project Preview](preview.png)
-
-> If the image doesn't appear on GitHub, use this URL instead:
-
-```markdown
-![Project Preview](https://raw.githubusercontent.com/Joni250/javascript-number-match-checker/main/preview.png)
-```
 
 ---
 
